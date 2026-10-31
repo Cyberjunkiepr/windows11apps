@@ -1,6 +1,7 @@
 # install-apps.ps1
 $apps = @(
     "Klocman.BulkCrapUninstaller"
+    "OBSProject.OBSStudio"
     "RazerInc.RazerInstaller.Synapse4"
     "Ratta.SupernotePartner"
     "SimpleX.SimpleX-Chat"
