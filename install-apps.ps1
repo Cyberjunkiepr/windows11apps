@@ -1,6 +1,7 @@
 # install-apps.ps1
 $apps = @(
     "Klocman.BulkCrapUninstaller"
+    "Cisco.Webex"
     "Symless.Synergy"
     "GermanCoding.SyncTrayzor"
     "OBSProject.OBSStudio"
