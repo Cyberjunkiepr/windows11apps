@@ -1,5 +1,14 @@
 # install-apps.ps1
 $apps = @(
+    "Klocman.BulkCrapUninstaller"
+    "RazerInc.RazerInstaller.Synapse4"
+    "Ratta.SupernotePartner"
+    "SimpleX.SimpleX-Chat"
+    "DEVCOM.JetBrainsMonoNerdFont"
+    "ShareX.ShareX"
+    "Rufus.Rufus"
+    "Microsoft.Teams"
+    "Dell.Optimizer"
     "Hibbiki.Chromium"
     "OpenWhisperSystems.Signal"
     "Telegram.TelegramDesktop"
