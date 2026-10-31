@@ -1,6 +1,7 @@
 # install-apps.ps1
 $apps = @(
     "Klocman.BulkCrapUninstaller"
+    "Zoom.Zoom"
     "yt-dlp.yt-dlp"
     "Cisco.Webex"
     "Symless.Synergy"
