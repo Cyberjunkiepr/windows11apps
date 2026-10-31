@@ -23,5 +23,5 @@ $apps = @(
 
 foreach ($app in $apps) {
     Write-Host "Installing $app..." -ForegroundColor Cyan
-    winget install --id $app --exact --silent --accept-package-agreements --accept-source-agreements --dry-run
+    winget install --id $app --exact --silent --accept-package-agreements --accept-source-agreements
 }
